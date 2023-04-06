@@ -389,6 +389,9 @@ section {
         flex-wrap: inherit;
         margin: -25px;
     }
+    .input-icons i.fa-bookmark{
+        padding: 0.9rem;
+    }
     .contact-btn {
         margin: 0;
         position: absolute;
